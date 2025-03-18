@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shukla002
 - 👀 I’m interested in atmospheric chemistry
 - 🌱 I’m currently learning atmospheric modelling and machine learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on techniques for atmospheric modelling and machine learning
 - 📫 reach me on garimashukla002@yahoo.com
 
 <!---
